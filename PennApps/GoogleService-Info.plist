@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1079662732747-mr0bum20nkjj8bhaafekhnmml1mdqqf1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1079662732747-mr0bum20nkjj8bhaafekhnmml1mdqqf1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8oqXA6nexvKytiCwGz9Ixe6muAnXpoos</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1079662732747</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>annika.PennApps</string>
+	<key>PROJECT_ID</key>
+	<string>pennapps-67df0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pennapps-67df0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1079662732747:ios:7027240266b1e061aa024e</string>
+</dict>
+</plist>
