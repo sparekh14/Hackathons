@@ -1,9 +1,4 @@
-//
-//  pastDetail.swift
-//  PennApps
-//
-//  Created by Aditya Shirodkar on 3/19/22.
-//
+
 
 import SwiftUI
 
