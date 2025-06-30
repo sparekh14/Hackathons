@@ -150,15 +150,13 @@ Built in collaboration with Aditya Shirodkar and Annika Santhanam
 
 Want to collaborate on future hackathons or discuss these projects? Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthparekh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-parekh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sparekh14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://samarthparekh.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://fascinating-gecko-e92876.netlify.app/)
 
 ---
 
 <div align="center">
-
-**⭐ If you found these projects interesting, please consider giving this repository a star!**
 
 *Built with ❤️ and lots of ☕ during various hackathons*
 
