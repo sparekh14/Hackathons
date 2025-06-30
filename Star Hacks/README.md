@@ -47,58 +47,6 @@ Mental health support shouldn't be limited by accessibility barriers. **Self Joy
 - **Consistent Typography** - Clear hierarchy and readability
 - **Smooth Animations** - Polished, professional feel
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-```bash
-# Flutter SDK 2.0+
-flutter --version
-
-# Android Studio or VS Code
-# Android device or emulator
-```
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/self-joy-app.git
-   cd self-joy-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the application**
-   ```bash
-   flutter run
-   ```
-
-### Build for Release
-
-```bash
-# Android APK
-flutter build apk --release
-
-# Android App Bundle
-flutter build appbundle --release
-```
-
-## 📱 App Architecture
-
-### **File Structure**
-```
-Star Hacks/
-├── HomePage.dart         # Main application entry and home screen
-├── SecondPage.dart      # Quotes and motivation features
-├── calnedar.dart        # Calendar integration (referenced)
-├── quotes.dart          # Quote management system
-└── README.md
-```
-
 ### **Key Components**
 
 #### **HomePage.dart - Main Interface**
@@ -117,18 +65,6 @@ Star Hacks/
 ## 🎮 Feature Breakdown
 
 ### 📅 Mood Tracking System
-
-```dart
-// Daily mood rating implementation
-Container(
-  child: Text('How was your day today?',
-    style: TextStyle(color: Colors.black, fontSize: 20)),
-),
-Container(
-  child: Text('10/10',
-    style: TextStyle(fontSize: 60, color: Colors.black)),
-),
-```
 
 **Features:**
 - 1-10 scale mood rating
@@ -158,21 +94,6 @@ List QuoteName = [
 - **Random Selection** - Different quote each interaction
 - **Refresh Functionality** - New quote button
 
-### 🧭 Navigation System
-
-```dart
-Drawer(
-  child: Container(
-    color: Color(0xFF32213A),
-    child: ListView(
-      children: <Widget>[
-        // Calendar, Feel Better, Support options
-      ],
-    ),
-  ),
-)
-```
-
 **Navigation Features:**
 - **Slide-out Drawer** - Smooth, modern navigation
 - **Visual Hierarchy** - Clear section organization
@@ -181,31 +102,11 @@ Drawer(
 
 ## 🏗️ Technical Implementation
 
-### **Flutter Framework Utilization**
-
-#### **State Management**
-```dart
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      theme: ThemeData(
-        brightness: Brightness.dark,
-        primaryColor: Color(0xFF32213A),
-        accentColor: Color(0xFFE6DEB4),
-      ),
-    );
-  }
-}
-```
-
 #### **Custom Theme System**
 - **Dark Mode Design** - Consistent with wellness apps
 - **Custom Color Palette** - Psychologically calming colors
 - **Typography Hierarchy** - Multiple text styles
 - **Material Design** - Following Google's design principles
-
-### **Widget Architecture**
 
 #### **Container-Based Layout**
 - Flexible, responsive design
@@ -243,32 +144,6 @@ class MyApp extends StatelessWidget {
 
 ### **Sponsor Alignment**
 The project was strategically designed to align with hackathon sponsors focused on mental health technology, positioning the app as a potential platform expansion or partnership opportunity.
-
-## 🚧 Future Development Roadmap
-
-### **Phase 1: Core Enhancements**
-- [ ] **User Authentication** - Personal profiles and data persistence
-- [ ] **Enhanced Calendar** - Full calendar implementation with historical data
-- [ ] **Mood Analytics** - Trend analysis and insights
-- [ ] **Offline Support** - Local data storage capabilities
-
-### **Phase 2: Advanced Features**
-- [ ] **Journal Integration** - Written reflection capabilities
-- [ ] **Goal Setting** - Personal wellness objectives
-- [ ] **Reminder System** - Daily check-in notifications
-- [ ] **Progress Tracking** - Visual progress indicators
-
-### **Phase 3: Community Features**
-- [ ] **Support Groups** - Anonymous peer connections
-- [ ] **Professional Resources** - Therapist directory integration
-- [ ] **Crisis Support** - Emergency resource access
-- [ ] **Sharing Features** - Anonymous success stories
-
-### **Phase 4: Advanced Wellness**
-- [ ] **Meditation Integration** - Guided meditation sessions
-- [ ] **Breathing Exercises** - Interactive wellness activities
-- [ ] **Sleep Tracking** - Wellness routine monitoring
-- [ ] **Habit Formation** - Positive habit building tools
 
 ## 🔬 Research & Impact
 
@@ -327,7 +202,5 @@ The project was strategically designed to align with hackathon sponsors focused 
 *🏆 2nd Place Winner - Star Hacks 2020*
 
 **Built with ❤️ and dedication to mental health awareness**
-
-*If you or someone you know is struggling with mental health, please reach out to professional resources or crisis helplines.*
 
 </div>

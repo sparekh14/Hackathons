@@ -58,38 +58,6 @@ Most calculators only offer basic arithmetic functions. Our **Multidimensional C
 - **Temperature Conversion** - Multiple scale conversions
 - **Complex Expressions** - Evaluation using Python's eval()
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-```bash
-# Python 3.6+ required
-python --version
-
-# No external dependencies required - uses built-in libraries
-```
-
-### Installation & Usage
-
-1. **Download the calculator**
-   ```bash
-   git clone https://github.com/yourusername/multidimensional-calculator.git
-   cd multidimensional-calculator
-   ```
-
-2. **Run the application**
-   ```bash
-   python MultidimensionalCalculator.py
-   ```
-
-3. **Follow the interactive prompts**
-   ```
-   1. Simple Calculator
-   2. Formula Calculator
-   3. Converter
-   Enter the number of the calculator you want to open: 
-   ```
-
 ## 📋 Detailed Usage Guide
 
 ### 🔢 Simple Calculator
@@ -229,24 +197,6 @@ shapes2 = ["cube", "cylinder", "rectangular prism",
 | Cylinder | π × r² × h | 2πr(r + h) |
 | Cone | 1/3 × π × r² × h | πr(r + √(r² + h²)) |
 
-## 🚧 Future Development
-
-### **Planned Enhancements**
-- [ ] **GUI Interface** - Modern graphical user interface
-- [ ] **3D Visualization** - Shape rendering and visualization
-- [ ] **Unit System** - Comprehensive unit conversions
-- [ ] **Scientific Functions** - Trigonometry, logarithms
-- [ ] **Equation Solver** - System of equations
-- [ ] **Graphing Capabilities** - Function plotting
-- [ ] **Export Features** - Save calculations to file
-- [ ] **History System** - Previous calculation recall
-
-### **Code Improvements**
-- [ ] **Object-Oriented Refactor** - Class-based architecture
-- [ ] **Input Validation** - Enhanced error handling
-- [ ] **Configuration System** - Customizable settings
-- [ ] **Plugin Architecture** - Extensible calculator modules
-
 ## 👥 Development Team
 
 **Created by:**
@@ -297,7 +247,5 @@ This project was successfully completed during the **Titan Hacks 2020** hackatho
 **🧮 "Bringing advanced mathematics to everyone, one calculation at a time"**
 
 *Built during Titan Hacks 2020 - San Marino Hack Club*
-
-**⭐ Star this project if you found it useful for your mathematical needs!**
 
 </div>
